@@ -9,7 +9,7 @@ const blogData = [
     image: require('../assets/images/blog1.jpg'),
     time: '15 Nov 2016',
     title: 'Coffee Lovers',
-    description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deserunt, asperiores eaque quibusdam eum quod cum nesciunt.',
+    description: 'Xyz ipsum dolor sit amet, consectetur adipisicing elit. Deserunt, asperiores eaque quibusdam eum quod cum nesciunt.',
     link: 'https://www.google.com'
   },
   {
